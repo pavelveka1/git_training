@@ -8,3 +8,5 @@ row7
 row8
 row9 updated git2
 row10 updated git2
+row9 git1 step5
+row10 git1 step5
