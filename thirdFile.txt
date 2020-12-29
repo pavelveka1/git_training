@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 step 14
+=======
+new file
+>>>>>>> parent of fbaa29f... Revert "step 12 added thirdFile"
