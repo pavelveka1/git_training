@@ -2,8 +2,8 @@
 2row
 3row
 4row
-5row
-6row
+5row step 8
+6row step 8
 7row step 7
 8row step 7
 9row
