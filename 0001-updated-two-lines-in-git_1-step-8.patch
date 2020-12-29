@@ -1,0 +1,27 @@
+From 97b0f9401c2f09fc88914edd269364789d85bae6 Mon Sep 17 00:00:00 2001
+From: HP <pavelveka100@gmail.com>
+Date: Wed, 30 Dec 2020 00:50:41 +0300
+Subject: [PATCH] updated two lines in git_1 step 8
+
+---
+ secondFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/secondFile.txt b/secondFile.txt
+index ee450c7..763bff6 100644
+--- a/secondFile.txt
++++ b/secondFile.txt
+@@ -2,8 +2,8 @@
+ 2row
+ 3row
+ 4row
+-5row
+-6row
++5row step 8
++6row step 8
+ 7row step 7
+ 8row step 7
+ 9row
+-- 
+2.23.0.windows.1
+
