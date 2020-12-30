@@ -4,7 +4,7 @@ row3
 row4
 row5
 row6
-row7
-row8
+row7 step 18
+row8 step 18
 row9 git1 step5
 row10 git1 step5
